@@ -1,0 +1,34 @@
+_repo: Le-loup-blanc_14702
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Féval, Paul
+    aliases:
+    - Féval, Paul Henri Corentin
+    - Feval, Paul
+    birthdate: 1817
+    deathdate: 1887
+    gutenberg_agent_id: '3280'
+    url: http://www.gutenberg.org/2009/agents/3280
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Paul_Féval,_père
+    - http://fr.wikipedia.org/wiki/Paul_Féval_père
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2005-01-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14702'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brittany (France) -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'France -- History -- Regency, 1715-1723 -- Fiction'
+title: Le loup blanc
+url: http://www.gutenberg.org/ebooks/14702
